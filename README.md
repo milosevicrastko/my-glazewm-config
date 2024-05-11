@@ -1,0 +1,1 @@
+# my-glazewm-config
