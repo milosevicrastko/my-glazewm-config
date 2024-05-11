@@ -1,1 +1,1 @@
-# my-glazewm-config
+Since bug.n bugged out on windows 11 for me, and my company won't let me switch to linux (and use i3), i am experimenting with glazeWM. This is my configuration. Will try to make it better as time goes on if needed.
